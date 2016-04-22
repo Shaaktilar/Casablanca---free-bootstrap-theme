@@ -1,0 +1,9 @@
+[{
+    "label": "Grunt dist des familles",
+    "cmd": "grunt dist",
+    "args": [],
+    "key": "Ctrl-<",
+    "opts": {
+        "defaultPath": "C:/xampp/htdocs/mkaroui/casablanca/bootstrap-3.3.6"
+    }
+}] 
